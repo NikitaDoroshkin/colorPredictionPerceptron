@@ -1,0 +1,9 @@
+c:\users\nikita\documents\visual studio 2017\Projects\ColorPredictionPerceptron\ColorPredictionPerceptron\bin\Debug\ColorPredictionPerceptron.exe.config
+c:\users\nikita\documents\visual studio 2017\Projects\ColorPredictionPerceptron\ColorPredictionPerceptron\bin\Debug\ColorPredictionPerceptron.exe
+c:\users\nikita\documents\visual studio 2017\Projects\ColorPredictionPerceptron\ColorPredictionPerceptron\bin\Debug\ColorPredictionPerceptron.pdb
+c:\users\nikita\documents\visual studio 2017\Projects\ColorPredictionPerceptron\ColorPredictionPerceptron\obj\Debug\ColorPredictionPerceptron.csprojResolveAssemblyReference.cache
+c:\users\nikita\documents\visual studio 2017\Projects\ColorPredictionPerceptron\ColorPredictionPerceptron\obj\Debug\ColorPredictionPerceptron.Form1.resources
+c:\users\nikita\documents\visual studio 2017\Projects\ColorPredictionPerceptron\ColorPredictionPerceptron\obj\Debug\ColorPredictionPerceptron.Properties.Resources.resources
+c:\users\nikita\documents\visual studio 2017\Projects\ColorPredictionPerceptron\ColorPredictionPerceptron\obj\Debug\ColorPredictionPerceptron.csproj.GenerateResource.Cache
+c:\users\nikita\documents\visual studio 2017\Projects\ColorPredictionPerceptron\ColorPredictionPerceptron\obj\Debug\ColorPredictionPerceptron.exe
+c:\users\nikita\documents\visual studio 2017\Projects\ColorPredictionPerceptron\ColorPredictionPerceptron\obj\Debug\ColorPredictionPerceptron.pdb
